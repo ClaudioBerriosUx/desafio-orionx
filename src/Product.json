@@ -1,0 +1,17 @@
+{
+    "product":[
+        {
+          "nombre" : "Espresso ",
+          "tipo": "(large)",
+          "cantidad" : 1,
+          "valor" : "2.90"
+        },
+        {
+            "nombre" : "Cappuccino",
+            "tipo": "(small)",
+            "cantidad" : 2,            
+            "valor" : "7.00"
+          }
+    ]
+
+}
